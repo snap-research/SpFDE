@@ -10,7 +10,7 @@ Overview of the SpFDE framework. The sparse training  rocess consists of three s
 
 
 >Layer Freezing \& Data Sieving: Missing Pieces of a Generic Framework for Sparse Training<br>
->[Genge Yuan](https://scholar.google.com/citations?user=tBIAgtgAAAAJ&hl)<sup>1,2,&dagger;</sup>, [Yanyu Li](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=XUj8koUAAAAJ&sortby=pubdate)<sup>1,2,&dagger;</sup>,  Sheng Li<sup>3</sup>, [Zhenglun Kong](https://scholar.google.com/citations?user=XYa4NVYAAAAJ&hl=en)<sup>2</sup>, [Sergey Tulyakov](http://www.stulyakov.com/)<sup>1</sup>, [Xulong Tang](http://xzt102.github.io/)<sup>3</sup>,  [Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/)<sup>2</sup>, [Jian Ren](https://alanspike.github.io/)<sup>1</sup>  
+>[Geng Yuan](https://scholar.google.com/citations?user=tBIAgtgAAAAJ&hl)<sup>1,2,&dagger;</sup>, [Yanyu Li](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=XUj8koUAAAAJ&sortby=pubdate)<sup>1,2,&dagger;</sup>,  Sheng Li<sup>3</sup>, [Zhenglun Kong](https://scholar.google.com/citations?user=XYa4NVYAAAAJ&hl=en)<sup>2</sup>, [Sergey Tulyakov](http://www.stulyakov.com/)<sup>1</sup>, [Xulong Tang](http://xzt102.github.io/)<sup>3</sup>,  [Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/)<sup>2</sup>, [Jian Ren](https://alanspike.github.io/)<sup>1</sup>  
 ><sup>1</sup>Snap Inc., <sup>2</sup>Northeastern University, <sup>3</sup>University of Pittsburgh
 
 ### Abstract
